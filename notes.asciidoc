@@ -1,3 +1,5 @@
 = Pivotal Core Spring Training
 
+== Day 1
 - spring-retry -> lohnt sich mal anzuschauen
+- namespaces aus xml durch Enable... annotationen abgelöst
